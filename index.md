@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Paderelab Tech
 
 You can use the [editor on GitHub](https://github.com/PADERELABSTECNOLOGY/Day1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
